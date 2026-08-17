@@ -8,22 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f3876074b3134a1",
+            "id": "5fb8b34dd8aa6b85",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/exam.canvas",
+                "file": "src/chapters/1 Introduction & basics.canvas",
                 "viewState": {
-                  "x": -2860.526878458924,
-                  "y": -1838.8542067931778,
-                  "zoom": -1.4084980160046876
+                  "x": 3154.6389014679307,
+                  "y": -4559.721693411225,
+                  "zoom": -1.6666666666666665
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "exam"
+              "title": "1 Introduction & basics"
+            }
+          },
+          {
+            "id": "1f3876074b3134a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -83,24 +99,41 @@
             }
           },
           {
-            "id": "6e28889321777c89",
+            "id": "9055d9019f9ef348",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/exam.canvas",
+                "file": "src/chapters/1 Introduction & basics.canvas",
                 "viewState": {
-                  "x": -512.4783262011092,
-                  "y": 3452.875155334895,
-                  "zoom": -4
+                  "x": 862.4754130731201,
+                  "y": -4767.660714328163,
+                  "zoom": -2.072696427080605
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "exam"
+              "title": "1 Introduction & basics"
+            }
+          },
+          {
+            "id": "703910588bb7153e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/chapters/2 Circut Design & Production.canvas",
+                "viewState": {
+                  "x": 1326.4241164241164,
+                  "y": -4831.679833679834,
+                  "zoom": -0.7393630937472727
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2 Circut Design & Production"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -271,15 +304,34 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "6e28889321777c89",
+  "active": "703910588bb7153e",
   "lastOpenFiles": [
-    "docs/src/img/pasted-image-20260815124504.png",
-    "docs/src/img/pasted-image-20260815124556.png",
-    "docs/src/img/pasted-image-20260815123054.png",
-    "docs/src/img/pasted-image-20260815125941.png",
-    "docs/src/img/pasted-image-20260815130100.png",
-    "docs/src/img/pasted-image-20260808171506.png",
-    "docs/src/img/pasted-image-20260815140627.png",
+    "src/attachments/Pasted image 20260815124556.png",
+    "src/attachments/Pasted image 20260815124504.png",
+    "src/attachments/Pasted image 20260815123054.png",
+    "src/attachments/Pasted image 20260815124743.png",
+    "src/attachments/Pasted image 20260815125941.png",
+    "src/attachments/Pasted image 20260815125947.png",
+    "src/attachments/Pasted image 20260815130017.png",
+    "src/attachments/Pasted image 20260815130025.png",
+    "src/attachments/Pasted image 20260815130100.png",
+    "src/attachments/Pasted image 20260815130107.png",
+    "src/attachments/Pasted image 20260815131517.png",
+    "src/chapters/2 Circut Design & Production.canvas",
+    "src/chapters/3 Computing Models.canvas",
+    "src/chapters/1 Introduction & basics.canvas",
+    "src/exam_old.canvas",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
+    "src/chapters",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "references/csa_exam (2025).pdf",
+    "README.md",
+    "TODO.md",
+    "Untitled.md",
     "docs/site-lib/styles/theme.css",
     "docs/site-lib/styles/other-plugins.css",
     "docs/site-lib/styles/supported-plugins.css",
@@ -288,21 +340,11 @@
     "docs/site-lib/scripts/webpage.js",
     "docs/site-lib/styles/global-variable-styles.css",
     "docs/site-lib/scripts/graph-wasm.wasm",
-    "docs/site-lib/scripts/graph-wasm.js",
-    "docs/site-lib/scripts/graph-render-worker.js",
-    "docs/site-lib/media/favicon.png",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "docs/src/img/pasted-image-20260815130107.png",
-    "README.md",
-    "src/exam.canvas",
     "src/README.md",
     "4 Computer Architecture/README.md",
     "4 Computer Architecture/lab2/README.md",
-    "4 Computer Architecture/exam.canvas",
     "content/README.md.md",
     "content/README.md",
-    "docs/exam.canvas",
     "docs/README.md",
     "test.md",
     "settings.md",
