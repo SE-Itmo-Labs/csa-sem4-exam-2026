@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9223ba9dd7849529",
+        "id": "8e9f201b3255ccf6",
         "type": "tabs",
         "children": [
           {
-            "id": "4e77057d8194a8d0",
+            "id": "1f3876074b3134a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "src/exam.canvas",
+                "viewState": {
+                  "x": -1049.2297297297291,
+                  "y": -297.19594594594594,
+                  "zoom": -2.741831349338022
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "exam"
             }
           }
         ]
@@ -188,28 +195,34 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "4e77057d8194a8d0",
+  "active": "1f3876074b3134a1",
   "lastOpenFiles": [
-    "docs/site-lib/search-index.json",
-    "src/exam.canvas",
-    "docs/site-lib/styles/other-plugins.css",
-    "docs/site-lib/styles/supported-plugins.css",
-    "docs/site-lib/styles/obsidian.css",
-    "docs/site-lib/styles/global-variable-styles.css",
-    "docs/site-lib/styles/main-styles.css",
-    "docs/site-lib/scripts/webpage.js",
-    "docs/site-lib/scripts/graph-wasm.wasm",
-    "docs/site-lib/scripts/graph-render-worker.js",
-    "docs/site-lib/scripts/graph-wasm.js",
-    "docs/site-lib/media/favicon.png",
-    "docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "docs/site-lib/html/file-tree-content.html",
-    "README.md",
     "src/README.md",
-    "docs/docs/site-lib/media/favicon.png",
-    "docs/docs/site-lib/media/6155340132a851f6089e.svg",
-    "docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "src/exam.canvas",
+    "4 Computer Architecture/README.md",
+    "src/img/image.png",
+    "src/references/csa_exam (2025).pdf",
+    "src/img/Pasted image 20260805105559.png",
+    "src/img",
+    "4 Computer Architecture/lab3_scheme/scheme_acc_1.png",
+    "4 Computer Architecture/lab3_scheme/scheme_acc_1.drawio",
+    "4 Computer Architecture/lab3_scheme",
+    "4 Computer Architecture/lab2/README.md",
+    "4 Computer Architecture/lab2",
+    "src/img/Pasted image 20260815145328.png",
+    "src/img/Pasted image 20260815144916.png",
+    "src/img/Pasted image 20260815144712.png",
+    "src/img/Pasted image 20260815140627.png",
+    "src/img/Pasted image 20260815132816.png",
+    "src/img/Pasted image 20260815131517.png",
+    "src/img/Pasted image 20260815130857.png",
+    "4 Computer Architecture/img",
+    "4 Computer Architecture/exam/schemes/system.drawio",
+    "4 Computer Architecture/exam/schemes",
+    "src/references/Экзамен АК (2024).pdf",
+    "src/references/Билеты к экзамену (2023).pdf",
+    "4 Computer Architecture/exam.canvas",
+    "README.md",
     "content/README.md.md",
     "content/README.md",
     "docs/exam.canvas",
