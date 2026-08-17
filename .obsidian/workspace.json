@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2012c338092e21c1",
+        "id": "ee82870fc371a966",
         "type": "tabs",
         "children": [
           {
-            "id": "8b27cc9ba573c816",
+            "id": "9df99825505fcad3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "exam.canvas",
-                "viewState": {
-                  "x": -56,
-                  "y": -71,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "exam"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,15 +181,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "flowershow:Publish with Flowershow": false,
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "8b27cc9ba573c816",
+  "active": "9df99825505fcad3",
   "lastOpenFiles": [
+    "content/README.md.md",
+    "content/README.md",
+    "content",
+    "docs/site-lib/search-index.json",
+    "src/exam.canvas",
+    "docs/site-lib/styles/other-plugins.css",
+    "docs/site-lib/styles/supported-plugins.css",
+    "docs/site-lib/styles/obsidian.css",
+    "docs/site-lib/styles/main-styles.css",
+    "docs/site-lib/styles/global-variable-styles.css",
+    "docs/site-lib/scripts/webpage.js",
+    "docs/site-lib/scripts/graph-wasm.wasm",
+    "docs/site-lib/scripts/graph-wasm.js",
+    "docs/site-lib/media/favicon.png",
+    "docs/site-lib/media/6155340132a851f6089e.svg",
+    "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "README.md",
-    "exam.canvas",
-    "Welcome.md",
-    "Untitled.md",
-    "Untitled"
+    "src/README.md",
+    "docs/exam.canvas",
+    "docs/README.md",
+    "test.md",
+    "settings.md",
+    "Welcome.md"
   ]
 }

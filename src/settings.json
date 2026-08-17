@@ -1,14 +1,11 @@
 {
   "github": {
-    "user": "SE-Itmo-Labs",
-    "repo": "csa-sem4-exam-2026",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": false,
       "folderName": "enveloppe"
     },
-    "tokenSecret": "csa-sem4-exam-2026",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
@@ -17,9 +14,7 @@
       "commitMessage": "[PUBLISHER] Merge",
       "name": ""
     },
-    "otherRepo": [],
-    "verifiedRepo": true,
-    "rateLimit": 4999
+    "verifiedRepo": true
   },
   "upload": {
     "behavior": "fixed",
@@ -78,13 +73,10 @@
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
-    "forcePush": true,
-    "useObsidianFolder": false
+    "forcePush": true
   },
   "plugin": {
     "shareKey": "share",
-    "fileMenu": false,
-    "editorMenu": false,
     "excludedFolder": [],
     "copyLink": {
       "enable": false,
@@ -97,10 +89,6 @@
         "applyRegex": []
       }
     },
-    "noticeError": false,
-    "displayModalRepoEditing": false,
-    "setFrontmatterKey": "Set",
-    "migrated": true
-  },
-  "tabsId": "github-configuration"
+    "setFrontmatterKey": "Set"
+  }
 }
