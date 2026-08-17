@@ -10,21 +10,97 @@
           {
             "id": "1f3876074b3134a1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "src/exam.canvas",
                 "viewState": {
-                  "x": -2835.6337344903163,
-                  "y": 6171.505810733661,
-                  "zoom": -0.40849801600468866
+                  "x": -2860.526878458924,
+                  "y": -1838.8542067931778,
+                  "zoom": -1.4084980160046876
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "exam"
+            }
+          },
+          {
+            "id": "4edb53b6df00448a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/АК Экзамен v1.7 (2026).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "АК Экзамен v1.7 (2026)"
+            }
+          },
+          {
+            "id": "9bde1d1bcf05bdf7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/АК экзамен (2026).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "АК экзамен (2026)"
+            }
+          },
+          {
+            "id": "7214836eeb776bbd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "digital-design-and-computer-architecture-russian-translation_July16_2016"
+            }
+          },
+          {
+            "id": "ac2a6f3a969efa79",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/csa_exam (2025).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "csa_exam (2025)"
+            }
+          },
+          {
+            "id": "6e28889321777c89",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/exam.canvas",
+                "viewState": {
+                  "x": -512.4783262011092,
+                  "y": 3452.875155334895,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "exam"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,29 +271,29 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "1f3876074b3134a1",
+  "active": "6e28889321777c89",
   "lastOpenFiles": [
-    "docs/src/img/pasted-image-20260805122737.png",
-    "docs/src/img/pasted-image-20260805122823.png",
+    "docs/src/img/pasted-image-20260815124504.png",
+    "docs/src/img/pasted-image-20260815124556.png",
+    "docs/src/img/pasted-image-20260815123054.png",
+    "docs/src/img/pasted-image-20260815125941.png",
+    "docs/src/img/pasted-image-20260815130100.png",
     "docs/src/img/pasted-image-20260808171506.png",
-    "docs/src/img/pasted-image-20260805131341.png",
+    "docs/src/img/pasted-image-20260815140627.png",
     "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/supported-plugins.css",
     "docs/site-lib/styles/other-plugins.css",
+    "docs/site-lib/styles/supported-plugins.css",
     "docs/site-lib/styles/obsidian.css",
     "docs/site-lib/styles/main-styles.css",
-    "docs/site-lib/styles/global-variable-styles.css",
     "docs/site-lib/scripts/webpage.js",
+    "docs/site-lib/styles/global-variable-styles.css",
     "docs/site-lib/scripts/graph-wasm.wasm",
-    "docs/site-lib/scripts/graph-render-worker.js",
     "docs/site-lib/scripts/graph-wasm.js",
+    "docs/site-lib/scripts/graph-render-worker.js",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "docs/src/img/pasted-image-20260805124000.png",
-    "docs/src/img/pasted-image-20260805121627.png",
-    "docs/src/img/pasted-image-20260805120840.png",
-    "docs/src/img/pasted-image-20260805105559.png",
+    "docs/src/img/pasted-image-20260815130107.png",
     "README.md",
     "src/exam.canvas",
     "src/README.md",
