@@ -1,9 +1,0 @@
-{
-  "flowershowToken": "fs_pat_PpmLIqA6AepoxqOAQxJtU9lIM0gi9SWr0uNdIdFjmpg",
-  "siteName": "csa-sem4-exam-2026",
-  "rootDir": "docs",
-  "excludePatterns": [
-    "\\.excalidraw(\\.(md|excalidraw))?$"
-  ],
-  "lastSeenVersion": ""
-}
