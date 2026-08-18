@@ -16,26 +16,14 @@
               "state": {
                 "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 2378.327677068107,
-                  "y": 6034.78478713996,
-                  "zoom": 0.565833020281411
+                  "x": 3093.456673010196,
+                  "y": -2927.9930290732023,
+                  "zoom": -1.3333333333333333
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "3 Computing Models"
-            }
-          },
-          {
-            "id": "12f2982b40d8d868",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/attachments/pack 1/Pasted image 20260818042030.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260818042030"
             }
           },
           {
@@ -105,59 +93,82 @@
             }
           },
           {
-            "id": "0be5a7916e936ca5",
+            "id": "1f7d521dfc9739d6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/attachments/pack 1/Pasted image 20260818152144.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260818152144"
+            }
+          },
+          {
+            "id": "1ca5ac8ab4a8d3c3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/1 Introduction & basics.canvas",
+                "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 2709.1641791710617,
-                  "y": -3650.6805581216922,
-                  "zoom": -0.9999999999999991
+                  "x": 2337.132207605182,
+                  "y": 6685.846686380936,
+                  "zoom": -0.1635266613995089
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "1 Introduction & basics"
+              "title": "3 Computing Models"
             }
           },
           {
-            "id": "14342f55b03e601a",
+            "id": "168ef849a7cc9669",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/CSA 2026 EXAM.canvas",
+                "viewState": {
+                  "x": 1222.856220457644,
+                  "y": -3439.0161757722917,
+                  "zoom": 0.6674508372286097
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CSA 2026 EXAM"
+            }
+          },
+          {
+            "id": "1f4afc82cce6080d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/chapters/3 Computing Models.canvas",
+                "viewState": {
+                  "x": 3348.6722639693753,
+                  "y": -3805.545226046731,
+                  "zoom": 0.13338808287178383
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "3 Computing Models"
+            }
+          },
+          {
+            "id": "4ed4b89d2df24a65",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "src/attachments/pack 1/Pasted image 20260818152921.png"
+                "file": "src/attachments/pack 2/Pasted image 20260818164424.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260818152921"
-            }
-          },
-          {
-            "id": "8cd138edc175e073",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК Все билеты (2024).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "АК Все билеты (2024)"
-            }
-          },
-          {
-            "id": "b232049727b91141",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/attachments/pack 1/Pasted image 20260818042030.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260818042030"
+              "title": "Pasted image 20260818164424"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -328,30 +339,30 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "0fe4a557751a1167",
+  "active": "6a752148d908af72",
   "lastOpenFiles": [
-    "src/attachments/pack 1/Pasted image 20260818042030.png",
     "src/chapters/3 Computing Models.canvas",
-    "src/attachments/pack 1/Pasted image 20260818041251.png",
-    "src/attachments/pack 1/Pasted image 20260818043036.png",
-    "src/attachments/pack 1/Pasted image 20260818044119.png",
-    "src/attachments/pack 1/Pasted image 20260818045739.png",
-    "src/attachments/pack 1/Pasted image 20260818141843.png",
-    "src/attachments/pack 1/Pasted image 20260818143117.png",
-    "src/attachments/pack 1/Pasted image 20260818143145.png",
-    "src/attachments/pack 1/Pasted image 20260818152055.png",
-    "src/attachments/pack 1/Pasted image 20260818152144.png",
-    "references/АК экзамен (2026).pdf",
     "references/АК Экзамен v1.7 (2026).pdf",
+    "references/АК экзамен (2026).pdf",
+    "src/attachments/pack 2/Pasted image 20260818170643.png",
     "references/Экзамен АК (2024).pdf",
-    "Untitled.md",
+    "src/attachments/pack 2/Pasted image 20260818155114.png",
+    "src/attachments/pack 2/Pasted image 20260818163304.png",
+    "src/attachments/pack 2/Pasted image 20260818162754.png",
+    "src/attachments/pack 1/Pasted image 20260818033946.png",
+    "src/attachments/pack 1/Pasted image 20260818034239.png",
+    "src/attachments/pack 1/Pasted image 20260818034433.png",
+    "src/attachments/pack 1/Pasted image 20260818034440.png",
+    "src/attachments/pack 1/Pasted image 20260818040331.png",
+    "src/attachments/pack 1/Pasted image 20260818041251.png",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
     "references/АК Все билеты (2024).pdf",
     "src/chapters/1 Introduction & basics.canvas",
+    "Untitled.md",
     "src/chapters/2 Circut Design & Production.canvas",
     "src/attachments/pack 2",
-    "src/chapters/4 ISA Evolution.canvas",
     "src/attachments/pack 1",
-    "src/CSA 2026 EXAM.canvas",
     "references/csa_exam (2025).pdf",
     "src/drafts/DRAFTS.canvas",
     "src/drafts",
