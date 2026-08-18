@@ -8,56 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fb8b34dd8aa6b85",
+            "id": "4989652f21fabb86",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/1 Introduction & basics.canvas",
+                "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 3154.6389014679307,
-                  "y": -4559.721693411225,
-                  "zoom": -1.6666666666666665
+                  "x": 2350.6141737307394,
+                  "y": 586.7739221012141,
+                  "zoom": -0.3333333333333332
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "1 Introduction & basics"
+              "title": "3 Computing Models"
             }
           },
           {
-            "id": "1f3876074b3134a1",
+            "id": "f281d27d2591ac78",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "src/CSA 2026 EXAM.canvas",
+                "viewState": {
+                  "x": 647.0562116430322,
+                  "y": -3088.8071789399346,
+                  "zoom": -0.9992158294380569
+                }
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "CSA 2026 EXAM"
             }
           },
           {
-            "id": "4edb53b6df00448a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК Экзамен v1.7 (2026).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК Экзамен v1.7 (2026)"
-            }
-          },
-          {
-            "id": "9bde1d1bcf05bdf7",
+            "id": "9b4276533ddd02b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -71,69 +60,52 @@
             }
           },
           {
-            "id": "7214836eeb776bbd",
+            "id": "af4a0191e6bc7b78",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf"
+                "file": "references/АК Экзамен v1.7 (2026).pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "digital-design-and-computer-architecture-russian-translation_July16_2016"
+              "title": "АК Экзамен v1.7 (2026)"
             }
           },
           {
-            "id": "ac2a6f3a969efa79",
+            "id": "141753f4e89c77ca",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "references/csa_exam (2025).pdf"
+                "file": "references/Экзамен АК (2024).pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "csa_exam (2025)"
+              "title": "Экзамен АК (2024)"
             }
           },
           {
-            "id": "9055d9019f9ef348",
+            "id": "da48f7a6c3b3f2bf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/1 Introduction & basics.canvas",
+                "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 862.4754130731201,
-                  "y": -4767.660714328163,
-                  "zoom": -2.072696427080605
+                  "x": 2235.2633813328944,
+                  "y": 252.8084618608265,
+                  "zoom": 0.22404927234395905
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "1 Introduction & basics"
-            }
-          },
-          {
-            "id": "703910588bb7153e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/2 Circut Design & Production.canvas",
-                "viewState": {
-                  "x": 1326.4241164241164,
-                  "y": -4831.679833679834,
-                  "zoom": -0.7393630937472727
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2 Circut Design & Production"
+              "title": "3 Computing Models"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,42 +276,43 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "703910588bb7153e",
+  "active": "f281d27d2591ac78",
   "lastOpenFiles": [
-    "src/attachments/Pasted image 20260815124556.png",
-    "src/attachments/Pasted image 20260815124504.png",
-    "src/attachments/Pasted image 20260815123054.png",
-    "src/attachments/Pasted image 20260815124743.png",
-    "src/attachments/Pasted image 20260815125941.png",
-    "src/attachments/Pasted image 20260815125947.png",
-    "src/attachments/Pasted image 20260815130017.png",
-    "src/attachments/Pasted image 20260815130025.png",
-    "src/attachments/Pasted image 20260815130100.png",
-    "src/attachments/Pasted image 20260815130107.png",
-    "src/attachments/Pasted image 20260815131517.png",
-    "src/chapters/2 Circut Design & Production.canvas",
-    "src/chapters/3 Computing Models.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
-    "src/exam_old.canvas",
-    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
-    "src/CSA 2026 EXAM.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "src/chapters",
-    "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
-    "references/csa_exam (2025).pdf",
-    "README.md",
-    "TODO.md",
-    "Untitled.md",
+    "docs/references/ак-все-билеты-(2024).pdf",
+    "docs/references/digital-design-and-computer-architecture-russian-translation_july16_2016.pdf",
+    "docs/references/ак-экзамен-v1.7-(2026).pdf",
+    "docs/references/экзамен-ак-(2024).pdf",
+    "docs/src/attachments/pasted-image-20260815124504.png",
+    "docs/src/attachments/pasted-image-20260815124556.png",
+    "docs/src/attachments/pasted-image-20260815123054.png",
+    "docs/references/ак-экзамен-(2026).pdf",
+    "docs/src/attachments/pasted-image-20260805122737.png",
+    "docs/src/attachments/pasted-image-20260815125941.png",
+    "docs/src/attachments/pasted-image-20260815130100.png",
+    "docs/src/attachments/pasted-image-20260808171506.png",
+    "docs/src/attachments/pasted-image-20260805131341.png",
+    "docs/src/attachments/pasted-image-20260805122823.png",
+    "docs/references/билеты-к-экзамену-(2023).pdf",
+    "docs/preview.png",
     "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/other-plugins.css",
     "docs/site-lib/styles/supported-plugins.css",
+    "docs/site-lib/styles/other-plugins.css",
     "docs/site-lib/styles/obsidian.css",
     "docs/site-lib/styles/main-styles.css",
-    "docs/site-lib/scripts/webpage.js",
-    "docs/site-lib/styles/global-variable-styles.css",
-    "docs/site-lib/scripts/graph-wasm.wasm",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "src/chapters/5 RISC & Instruction Pipeling.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
+    "README.md",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+    "src/chapters/2 Circut Design & Production.canvas",
+    "src/drafts/DRAFTS.canvas",
+    "src/chapters/1 Introduction & basics.canvas",
+    "github.com/ssnagin.md",
+    "TODO.md",
+    "Untitled.md",
     "src/README.md",
     "4 Computer Architecture/README.md",
     "4 Computer Architecture/lab2/README.md",
