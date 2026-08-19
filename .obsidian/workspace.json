@@ -107,9 +107,26 @@
               "state": {
                 "file": "src/drafts/ak-74-89.canvas",
                 "viewState": {
-                  "x": -4.4206802443980955,
-                  "y": 8951.85187622726,
-                  "zoom": -0.6825019268070995
+                  "x": 275.23833008697653,
+                  "y": 5258.808076996154,
+                  "zoom": -0.023467587073863913
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ak-74-89"
+            }
+          },
+          {
+            "id": "15207861bf969402",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/drafts/ak-74-89.canvas",
+                "viewState": {
+                  "x": 1017.3833903032724,
+                  "y": 4866.427667236313,
+                  "zoom": -0.6529027540485062
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -117,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -137,7 +154,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -177,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.4609375
   },
   "right": {
     "id": "5026343c54dbdd21",
@@ -284,13 +303,13 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "3bc3d3e6a8393ce2",
+  "active": "15207861bf969402",
   "lastOpenFiles": [
-    "src/drafts/DRAFTS.canvas",
-    "src/drafts/ak-74-89.canvas",
-    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
     "src/chapters/1 Introduction & basics.canvas",
+    "src/drafts/ak-74-89.canvas",
+    "src/drafts/DRAFTS.canvas",
     "src/chapters/2 Circut Design & Production.canvas",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
     "src/drafts",
     "src/attachments/Pasted image 20260818045739.png",
