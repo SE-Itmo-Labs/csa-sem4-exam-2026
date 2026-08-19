@@ -124,9 +124,9 @@
               "state": {
                 "file": "src/drafts/ak-74-89.canvas",
                 "viewState": {
-                  "x": 750.768164359254,
-                  "y": 5908.625726283892,
-                  "zoom": -0.8382948652034008
+                  "x": 1972.900993272593,
+                  "y": 4367.5599017172335,
+                  "zoom": -1.2636373391153675
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -305,6 +305,8 @@
   },
   "active": "15207861bf969402",
   "lastOpenFiles": [
+    "src/chapters/4 ISA Evolution.canvas",
+    "src/chapters/3 Computing Models.canvas",
     "src/chapters/1 Introduction & basics.canvas",
     "src/drafts/ak-74-89.canvas",
     "src/drafts/DRAFTS.canvas",
@@ -331,8 +333,6 @@
     "docs/src/chapters/6-multitasking-&-io-&-ram.html",
     "docs/src/chapters/5-risc-&-instruction-pipeling.html",
     "docs/src/chapters/4-isa-evolution.html",
-    "src/chapters/3 Computing Models.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
     "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
     "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
