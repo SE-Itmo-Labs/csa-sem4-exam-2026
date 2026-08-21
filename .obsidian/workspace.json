@@ -16,9 +16,9 @@
               "state": {
                 "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
                 "viewState": {
-                  "x": 2962.220132289383,
-                  "y": 2075.2288076370683,
-                  "zoom": 0.15804752069401384
+                  "x": 2091.5527944110518,
+                  "y": -3798.206153191079,
+                  "zoom": -1.8419524793059865
                 }
               },
               "pinned": true,
@@ -36,7 +36,7 @@
                 "viewState": {
                   "x": 1440.806859109297,
                   "y": -4959.08024883027,
-                  "zoom": -0.8000000000000002
+                  "zoom": -1.6
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,9 +52,9 @@
               "state": {
                 "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 1312.67519865727,
-                  "y": -4997.020952985224,
-                  "zoom": -0.9333333333333335
+                  "x": 3063.979499034028,
+                  "y": -5135.520397622115,
+                  "zoom": -0.5333333333333334
                 }
               },
               "pinned": true,
@@ -75,21 +75,14 @@
               "icon": "lucide-file-text",
               "title": "АК экзамен (2026)"
             }
-          },
-          {
-            "id": "af4a0191e6bc7b78",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК Экзамен v1.7 (2026).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК Экзамен v1.7 (2026)"
-            }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9964e2f17e8160d6",
+        "type": "tabs",
+        "children": [
           {
             "id": "141753f4e89c77ca",
             "type": "leaf",
@@ -105,41 +98,21 @@
             }
           },
           {
-            "id": "bae12590c8f0cce8",
+            "id": "af4a0191e6bc7b78",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
-                "viewState": {
-                  "x": 1341.9120450745497,
-                  "y": -112.83784255878794,
-                  "zoom": -0.3848999512162774
-                }
+                "file": "references/АК Экзамен v1.7 (2026).pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
-            }
-          },
-          {
-            "id": "a8857681f24aa387",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/drafts/chapter 6.canvas",
-                "viewState": {
-                  "x": 4273.907974959945,
-                  "y": 2248.611773865475,
-                  "zoom": -2.9999999999999996
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "chapter 6"
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "АК Экзамен v1.7 (2026)"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,126 +286,76 @@
     "type": "floating",
     "children": [
       {
-        "id": "e8e0824e461fbd11",
+        "id": "8e42762c90894ee3",
         "type": "window",
         "children": [
           {
-            "id": "442a5252b3cdd83c",
+            "id": "b2648e1700d9a9f9",
             "type": "tabs",
             "children": [
               {
-                "id": "b4787dc89a8b6edf",
+                "id": "85d178279043b4b8",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "src/chapters/2 Circut Design & Production.canvas",
+                    "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
                     "viewState": {
-                      "x": 3207.322778533711,
-                      "y": 1613.8764502023275,
-                      "zoom": -0.5999999999999999
+                      "x": 1325.6855399620088,
+                      "y": -2459.9143729486996,
+                      "zoom": 0.19999999999999996
                     }
                   },
+                  "pinned": true,
                   "icon": "lucide-layout-dashboard",
-                  "title": "2 Circut Design & Production"
-                }
-              },
-              {
-                "id": "685d601af195dab2",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "src/chapters/3 Computing Models.canvas",
-                    "viewState": {
-                      "x": 1346.4253025577655,
-                      "y": -1369.3379228912818,
-                      "zoom": 0.20000000000000018
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "3 Computing Models"
-                }
-              },
-              {
-                "id": "b27cfc72cd6299b1",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "src/chapters/1 Introduction & basics.canvas",
-                    "viewState": {
-                      "x": 3402.182493605359,
-                      "y": -2571.774524748015,
-                      "zoom": -1.4
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "1 Introduction & basics"
-                }
-              },
-              {
-                "id": "9c43a350da088156",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "src/chapters/6 Multitasking & IO & RAM.canvas",
-                    "viewState": {
-                      "x": 4359.51753946221,
-                      "y": -4890.784895915787,
-                      "zoom": -0.5999999999999999
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "6 Multitasking & IO & RAM"
+                  "title": "7 Cache & Memory Hierarchy"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 3787,
-        "y": 140,
-        "width": 1576,
-        "height": 1040,
+        "x": 1986,
+        "y": 98,
+        "width": 600,
+        "height": 600,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9c43a350da088156",
+  "active": "85d178279043b4b8",
   "lastOpenFiles": [
-    "src/drafts/chapter 6.canvas",
+    "references/АК экзамен (2026).pdf",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/attachments/Pasted image 20260822022946.png",
+    "src/chapters/3 Computing Models.canvas",
+    "src/attachments/Pasted image 20260822022515.png",
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "references/Экзамен АК (2024).pdf",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/attachments/pack 2/msedge_4qSyycFgC8.jpg",
-    "src/attachments/image.png",
     "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "src/chapters/1 Introduction & basics.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
     "src/CSA 2026 EXAM.canvas",
-    "src/chapters/3 Computing Models.canvas",
     "src/drafts/DRAFTS.canvas",
-    "src/chapters/2 Circut Design & Production.canvas",
+    "src/drafts/chapter 6.canvas",
     "src/drafts/53,60.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "src/attachments/pack 2/Pasted image 20260821144759.png",
-    "src/attachments/pack 2/Pasted image 20260821144756.png",
-    "src/attachments/pack 2/Pasted image 20260818170643.png",
-    "src/attachments/pack 2/Pasted image 20260818164424.png",
-    "src/attachments/pack 2/Pasted image 20260818163304.png",
-    "src/attachments/pack 2/Pasted image 20260818162754.png",
-    "src/attachments/pack 2/Pasted image 20260818155114.png",
-    "src/attachments/pack 2",
-    "src/attachments/pack 1/Pasted image 20260818152921.png",
-    "src/attachments/pack 1",
     "Без названия.base",
     "Без названия 1.base",
+    "src/attachments/pack 2/msedge_wlRXOJqB3K.jpg",
+    "src/attachments/pack 2/msedge_weAHwn2Lko.jpg",
+    "src/attachments/pack 2/msedge_uf9dfdHFOP.jpg",
+    "src/attachments/pack 2/msedge_qbHgaB3jEw.jpg",
+    "src/attachments/pack 2/msedge_gy9Tn1TEo8.jpg",
+    "src/attachments/pack 2/msedge_esSqWWCcQV.jpg",
+    "src/attachments/pack 2/msedge_ZmYcoNFSNI.jpg",
+    "src/attachments/pack 2/msedge_U9wzHNhklt.jpg",
     "2026-08-19.md",
-    "references/Экзамен АК (2024).pdf",
+    "src/attachments/pack 2",
+    "src/attachments/pack 1",
     "references/АК Все билеты (2024).pdf",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "references/АК экзамен (2026).pdf",
     "Untitled.md",
     "references/csa_exam (2025).pdf",
     "src/drafts",
