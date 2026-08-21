@@ -16,9 +16,9 @@
               "state": {
                 "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
                 "viewState": {
-                  "x": 2550.6530942798463,
-                  "y": -4637.156147304893,
-                  "zoom": -1.4419524793059861
+                  "x": 2962.220132289383,
+                  "y": 2075.2288076370683,
+                  "zoom": 0.15804752069401384
                 }
               },
               "pinned": true,
@@ -34,8 +34,8 @@
               "state": {
                 "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
                 "viewState": {
-                  "x": 1535.2437394528324,
-                  "y": -4889.076012822264,
+                  "x": 1440.806859109297,
+                  "y": -4959.08024883027,
                   "zoom": -0.8000000000000002
                 }
               },
@@ -122,41 +122,24 @@
             }
           },
           {
-            "id": "6023b77415464068",
+            "id": "a8857681f24aa387",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/drafts/chapter 6.canvas",
                 "viewState": {
-                  "x": 1721.0813628712187,
-                  "y": -131.80214316000558,
-                  "zoom": -1.0908162144977287
+                  "x": 4273.907974959945,
+                  "y": 2248.611773865475,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
-            }
-          },
-          {
-            "id": "10eb800f3b1f8923",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
-                "viewState": {
-                  "x": 2460.009688682929,
-                  "y": -3513.272122144316,
-                  "zoom": -1.5575412769864805
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
+              "title": "chapter 6"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -325,19 +308,116 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "10eb800f3b1f8923",
+  "floating": {
+    "id": "97180b40c59c6eb1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e8e0824e461fbd11",
+        "type": "window",
+        "children": [
+          {
+            "id": "442a5252b3cdd83c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b4787dc89a8b6edf",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "src/chapters/2 Circut Design & Production.canvas",
+                    "viewState": {
+                      "x": 3207.322778533711,
+                      "y": 1613.8764502023275,
+                      "zoom": -0.5999999999999999
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "2 Circut Design & Production"
+                }
+              },
+              {
+                "id": "685d601af195dab2",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "src/chapters/3 Computing Models.canvas",
+                    "viewState": {
+                      "x": 1346.4253025577655,
+                      "y": -1369.3379228912818,
+                      "zoom": 0.20000000000000018
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "3 Computing Models"
+                }
+              },
+              {
+                "id": "b27cfc72cd6299b1",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "src/chapters/1 Introduction & basics.canvas",
+                    "viewState": {
+                      "x": 3402.182493605359,
+                      "y": -2571.774524748015,
+                      "zoom": -1.4
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "1 Introduction & basics"
+                }
+              },
+              {
+                "id": "9c43a350da088156",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "src/chapters/6 Multitasking & IO & RAM.canvas",
+                    "viewState": {
+                      "x": 4359.51753946221,
+                      "y": -4890.784895915787,
+                      "zoom": -0.5999999999999999
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "6 Multitasking & IO & RAM"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical",
+        "x": 3787,
+        "y": 140,
+        "width": 1576,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9c43a350da088156",
   "lastOpenFiles": [
-    "src/drafts/DRAFTS.canvas",
-    "src/drafts/ak-90-110.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "src/drafts/ak-74-89.canvas",
-    "src/chapters/3 Computing Models.canvas",
-    "src/CSA 2026 EXAM.canvas",
+    "src/drafts/chapter 6.canvas",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
-    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
-    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+    "src/attachments/pack 2/msedge_4qSyycFgC8.jpg",
+    "src/attachments/image.png",
+    "src/chapters/5 RISC & Instruction Pipeling.canvas",
+    "src/chapters/1 Introduction & basics.canvas",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/3 Computing Models.canvas",
+    "src/drafts/DRAFTS.canvas",
+    "src/chapters/2 Circut Design & Production.canvas",
+    "src/drafts/53,60.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
+    "src/attachments/pack 2/Pasted image 20260821144759.png",
+    "src/attachments/pack 2/Pasted image 20260821144756.png",
     "src/attachments/pack 2/Pasted image 20260818170643.png",
     "src/attachments/pack 2/Pasted image 20260818164424.png",
     "src/attachments/pack 2/Pasted image 20260818163304.png",
@@ -345,11 +425,10 @@
     "src/attachments/pack 2/Pasted image 20260818155114.png",
     "src/attachments/pack 2",
     "src/attachments/pack 1/Pasted image 20260818152921.png",
-    "src/attachments/pack 1/Pasted image 20260818152144.png",
-    "src/attachments/pack 1/Pasted image 20260818152055.png",
-    "src/attachments/pack 1/Pasted image 20260818143145.png",
-    "src/attachments/pack 1/Pasted image 20260818143117.png",
     "src/attachments/pack 1",
+    "Без названия.base",
+    "Без названия 1.base",
+    "2026-08-19.md",
     "references/Экзамен АК (2024).pdf",
     "references/АК Все билеты (2024).pdf",
     "references/АК Экзамен v1.7 (2026).pdf",
@@ -357,8 +436,6 @@
     "Untitled.md",
     "references/csa_exam (2025).pdf",
     "src/drafts",
-    "docs/src/drafts/drafts.html",
-    "docs/src/drafts",
     "README.md",
     "github.com/ssnagin.md",
     "TODO.md",
