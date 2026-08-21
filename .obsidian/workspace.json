@@ -16,9 +16,9 @@
               "state": {
                 "file": "src/chapters/4 ISA Evolution.canvas",
                 "viewState": {
-                  "x": 2024.3210105650473,
-                  "y": -4643.964549444978,
-                  "zoom": 0.20000000000000018
+                  "x": 2204.5029761049086,
+                  "y": -4343.096221670852,
+                  "zoom": -1.4
                 }
               },
               "pinned": true,
@@ -27,22 +27,22 @@
             }
           },
           {
-            "id": "2a1e84470800607e",
+            "id": "a548a66d2e305f76",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/drafts/ak-74-89.canvas",
                 "viewState": {
-                  "x": 1933.7853842390014,
-                  "y": -5210.272499870433,
-                  "zoom": -0.6982403659174093
+                  "x": 431.1205736924985,
+                  "y": 7514.887793751496,
+                  "zoom": -1.3532922657966977
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "ak-74-89"
             }
           },
           {
@@ -112,19 +112,35 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/3 Computing Models.canvas",
+                "file": "src/chapters/4 ISA Evolution.canvas",
                 "viewState": {
-                  "x": 1428,
-                  "y": -670.4389010989015,
-                  "zoom": -2.7875151296600458
+                  "x": 1341.9120450745497,
+                  "y": -112.83784255878794,
+                  "zoom": -0.3848999512162774
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "3 Computing Models"
+              "title": "4 ISA Evolution"
+            }
+          },
+          {
+            "id": "6023b77415464068",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/chapters/4 ISA Evolution.canvas",
+                "viewState": {
+                  "x": 1721.0813628712187,
+                  "y": -131.80214316000558,
+                  "zoom": -1.0908162144977287
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "4 ISA Evolution"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,8 +309,19 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "bae12590c8f0cce8",
+  "active": "1f4afc82cce6080d",
   "lastOpenFiles": [
+    "src/drafts/DRAFTS.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
+    "src/drafts/ak-74-89.canvas",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/5 RISC & Instruction Pipeling.canvas",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+    "src/chapters/3 Computing Models.canvas",
+    "src/chapters/2 Circut Design & Production.canvas",
     "src/attachments/pack 2/Pasted image 20260818170643.png",
     "src/attachments/pack 2/Pasted image 20260818164424.png",
     "src/attachments/pack 2/Pasted image 20260818163304.png",
@@ -306,27 +333,16 @@
     "src/attachments/pack 1/Pasted image 20260818152055.png",
     "src/attachments/pack 1/Pasted image 20260818143145.png",
     "src/attachments/pack 1/Pasted image 20260818143117.png",
-    "src/attachments/pack 1/Pasted image 20260818141843.png",
     "src/attachments/pack 1",
-    "src/drafts/ak-90-110.canvas",
-    "src/drafts/ak-74-89.canvas",
-    "src/chapters/3 Computing Models.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
     "references/Экзамен АК (2024).pdf",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/CSA 2026 EXAM.canvas",
     "references/АК Все билеты (2024).pdf",
-    "src/drafts/DRAFTS.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
     "references/АК Экзамен v1.7 (2026).pdf",
     "references/АК экзамен (2026).pdf",
     "Untitled.md",
-    "src/chapters/2 Circut Design & Production.canvas",
     "references/csa_exam (2025).pdf",
     "src/drafts",
     "docs/src/drafts/drafts.html",
     "docs/src/drafts",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
     "README.md",
     "github.com/ssnagin.md",
     "TODO.md",
