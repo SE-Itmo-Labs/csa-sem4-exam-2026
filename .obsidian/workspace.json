@@ -8,41 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f4afc82cce6080d",
+            "id": "4bb9127009a64221",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
                 "viewState": {
-                  "x": 2204.5029761049086,
-                  "y": -4343.096221670852,
-                  "zoom": -1.4
+                  "x": 2550.6530942798463,
+                  "y": -4637.156147304893,
+                  "zoom": -1.4419524793059861
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "5 RISC & Instruction Pipeling"
             }
           },
           {
-            "id": "a548a66d2e305f76",
+            "id": "8f2e5271b0a20f48",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/drafts/ak-74-89.canvas",
+                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
                 "viewState": {
-                  "x": 431.1205736924985,
-                  "y": 7514.887793751496,
-                  "zoom": -1.3532922657966977
+                  "x": 1535.2437394528324,
+                  "y": -4889.076012822264,
+                  "zoom": -0.8000000000000002
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "ak-74-89"
+              "title": "5 RISC & Instruction Pipeling"
             }
           },
           {
@@ -139,8 +137,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "4 ISA Evolution"
             }
+          },
+          {
+            "id": "10eb800f3b1f8923",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
+                "viewState": {
+                  "x": 2460.009688682929,
+                  "y": -3513.272122144316,
+                  "zoom": -1.5575412769864805
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "5 RISC & Instruction Pipeling"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -309,19 +325,19 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "1f4afc82cce6080d",
+  "active": "10eb800f3b1f8923",
   "lastOpenFiles": [
     "src/drafts/DRAFTS.canvas",
+    "src/drafts/ak-90-110.canvas",
+    "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "src/chapters/4 ISA Evolution.canvas",
     "src/drafts/ak-74-89.canvas",
+    "src/chapters/3 Computing Models.canvas",
     "src/CSA 2026 EXAM.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
     "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
     "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
-    "src/chapters/3 Computing Models.canvas",
-    "src/chapters/2 Circut Design & Production.canvas",
     "src/attachments/pack 2/Pasted image 20260818170643.png",
     "src/attachments/pack 2/Pasted image 20260818164424.png",
     "src/attachments/pack 2/Pasted image 20260818163304.png",
