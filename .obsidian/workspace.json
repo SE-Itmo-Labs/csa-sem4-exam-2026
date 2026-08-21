@@ -27,25 +27,6 @@
             }
           },
           {
-            "id": "f281d27d2591ac78",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/CSA 2026 EXAM.canvas",
-                "viewState": {
-                  "x": 647.0562116430322,
-                  "y": -3088.8071789399346,
-                  "zoom": -0.9992158294380569
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "CSA 2026 EXAM"
-            }
-          },
-          {
             "id": "9b4276533ddd02b4",
             "type": "leaf",
             "pinned": true,
@@ -57,20 +38,6 @@
               "pinned": true,
               "icon": "lucide-file-text",
               "title": "АК экзамен (2026)"
-            }
-          },
-          {
-            "id": "af4a0191e6bc7b78",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК Экзамен v1.7 (2026).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК Экзамен v1.7 (2026)"
             }
           },
           {
@@ -93,19 +60,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/3 Computing Models.canvas",
+                "file": "src/drafts/chapter 6.canvas",
                 "viewState": {
-                  "x": 2235.2633813328944,
-                  "y": 252.8084618608265,
-                  "zoom": 0.22404927234395905
+                  "x": 3696.871731994421,
+                  "y": 15182.209983087068,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "3 Computing Models"
+              "title": "chapter 6"
+            }
+          },
+          {
+            "id": "0f993dcf3f9571df",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/CSA 2026 EXAM.canvas",
+                "viewState": {
+                  "x": 1309.761637123524,
+                  "y": -5098.558291584289,
+                  "zoom": -1.3445967905359204
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CSA 2026 EXAM"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +114,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -167,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5026343c54dbdd21",
@@ -263,53 +248,90 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "flowershow:Publish with Flowershow": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-kanban:Создать новую доску": false,
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "f281d27d2591ac78",
+  "floating": {
+    "id": "1f41e674ed91c672",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a5d749a4693656c",
+        "type": "window",
+        "children": [
+          {
+            "id": "69b474ab3e6adbf2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af4a0191e6bc7b78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "references/АК Экзамен v1.7 (2026).pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "АК Экзамен v1.7 (2026)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1142,
+        "y": 232,
+        "width": 946,
+        "height": 1104,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "da48f7a6c3b3f2bf",
   "lastOpenFiles": [
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "src/drafts/chapter 6.canvas",
+    "src/attachments/msedge_ASr6bjcWRi.jpg",
+    "references/Экзамен АК (2024).pdf",
+    "src/attachments/msedge_LsFwKEQHwu.jpg",
+    "src/attachments/msedge_weAHwn2Lko.jpg",
+    "src/attachments/msedge_qbHgaB3jEw.jpg",
+    "src/attachments/msedge_uf9dfdHFOP.jpg",
+    "src/attachments/msedge_JVTHnRNeLN.jpg",
+    "src/chapters/3 Computing Models.canvas",
+    "references/АК экзамен (2026).pdf",
+    "src/attachments/Pasted image 20260821014713.png",
+    "src/attachments/msedge_9gr9wkXH2h.jpg",
+    "src/attachments/msedge_wlRXOJqB3K.jpg",
+    "src/CSA 2026 EXAM.canvas",
+    "src/attachments/msedge_MGXHO1fwQO.jpg",
+    "Без названия 1.base",
+    "Без названия.base",
+    "2026-08-19.md",
+    "Без названия 1.canvas",
+    "src/drafts/DRAFTS.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+    "src/drafts/46, 48-50.canvas",
+    "src/drafts/53,60.canvas",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "src/attachments/pack 2",
+    "src/attachments/pack 1",
+    "README.md",
     "docs/references/ак-все-билеты-(2024).pdf",
     "docs/references/digital-design-and-computer-architecture-russian-translation_july16_2016.pdf",
     "docs/references/ак-экзамен-v1.7-(2026).pdf",
-    "docs/references/экзамен-ак-(2024).pdf",
-    "docs/src/attachments/pasted-image-20260815124504.png",
-    "docs/src/attachments/pasted-image-20260815124556.png",
-    "docs/src/attachments/pasted-image-20260815123054.png",
-    "docs/references/ак-экзамен-(2026).pdf",
-    "docs/src/attachments/pasted-image-20260805122737.png",
-    "docs/src/attachments/pasted-image-20260815125941.png",
-    "docs/src/attachments/pasted-image-20260815130100.png",
-    "docs/src/attachments/pasted-image-20260808171506.png",
-    "docs/src/attachments/pasted-image-20260805131341.png",
-    "docs/src/attachments/pasted-image-20260805122823.png",
-    "docs/references/билеты-к-экзамену-(2023).pdf",
-    "docs/preview.png",
-    "docs/site-lib/styles/theme.css",
-    "docs/site-lib/styles/supported-plugins.css",
-    "docs/site-lib/styles/other-plugins.css",
-    "docs/site-lib/styles/obsidian.css",
-    "docs/site-lib/styles/main-styles.css",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
-    "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
-    "src/CSA 2026 EXAM.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "README.md",
-    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
-    "src/chapters/2 Circut Design & Production.canvas",
-    "src/drafts/DRAFTS.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
     "github.com/ssnagin.md",
     "TODO.md",
     "Untitled.md",
