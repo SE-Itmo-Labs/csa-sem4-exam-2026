@@ -6,6 +6,7 @@
       {
         "id": "8e9f201b3255ccf6",
         "type": "tabs",
+        "dimension": 45.17766497461929,
         "children": [
           {
             "id": "4bb9127009a64221",
@@ -84,8 +85,8 @@
               "state": {
                 "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
                 "viewState": {
-                  "x": 1536.5424382203664,
-                  "y": -1338.1466053895765,
+                  "x": 2125.818680567223,
+                  "y": -2182.428801206907,
                   "zoom": 0.414145514591699
                 }
               },
@@ -99,6 +100,7 @@
       {
         "id": "9964e2f17e8160d6",
         "type": "tabs",
+        "dimension": 54.82233502538071,
         "children": [
           {
             "id": "141753f4e89c77ca",
@@ -386,10 +388,14 @@
   "lastOpenFiles": [
     "references/АК экзамен (2026).pdf",
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
+    "src/attachments/Pasted image 20260823000207.png",
+    "src/attachments/Pasted image 20260822235021.png",
+    "src/attachments/Pasted image 20260822233931.png",
+    "src/attachments/Pasted image 20260822233859.png",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
     "src/attachments/Pasted image 20260822231309.png",
     "references/csa_exam (2025).pdf",
-    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
     "src/attachments/Pasted image 20260822225802.png",
     "src/attachments/Pasted image 20260822221054.png",
     "src/attachments/memory-array.png",
@@ -402,10 +408,6 @@
     "Без названия 1.canvas",
     "Без названия 1.base",
     "src/attachments/pack 2/msedge_wlRXOJqB3K.jpg",
-    "src/attachments/pack 2/msedge_weAHwn2Lko.jpg",
-    "src/attachments/pack 2/msedge_uf9dfdHFOP.jpg",
-    "src/attachments/pack 2/msedge_qbHgaB3jEw.jpg",
-    "src/attachments/pack 2/msedge_gy9Tn1TEo8.jpg",
     "2026-08-19.md",
     "src/drafts/chapter 6.canvas",
     "src/drafts/53,60.canvas",
