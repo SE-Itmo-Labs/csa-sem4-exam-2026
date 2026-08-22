@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bb9127009a64221",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
-                "viewState": {
-                  "x": 2550.6530942798463,
-                  "y": -4637.156147304893,
-                  "zoom": -1.4419524793059861
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
-            }
-          },
-          {
-            "id": "8f2e5271b0a20f48",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
-                "viewState": {
-                  "x": 1535.2437394528324,
-                  "y": -4889.076012822264,
-                  "zoom": -0.8000000000000002
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
-            }
-          },
-          {
-            "id": "0fe4a557751a1167",
+            "id": "4989652f21fabb86",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -52,9 +16,9 @@
               "state": {
                 "file": "src/chapters/3 Computing Models.canvas",
                 "viewState": {
-                  "x": 1312.67519865727,
-                  "y": -4997.020952985224,
-                  "zoom": -0.9333333333333335
+                  "x": 2350.6141737307394,
+                  "y": 586.7739221012141,
+                  "zoom": -0.3333333333333332
                 }
               },
               "pinned": true,
@@ -63,7 +27,7 @@
             }
           },
           {
-            "id": "c587f997f83c6941",
+            "id": "9b4276533ddd02b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -74,20 +38,6 @@
               "pinned": true,
               "icon": "lucide-file-text",
               "title": "АК экзамен (2026)"
-            }
-          },
-          {
-            "id": "af4a0191e6bc7b78",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК Экзамен v1.7 (2026).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК Экзамен v1.7 (2026)"
             }
           },
           {
@@ -105,58 +55,58 @@
             }
           },
           {
-            "id": "bae12590c8f0cce8",
+            "id": "da48f7a6c3b3f2bf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/CSA 2026 EXAM.canvas",
                 "viewState": {
-                  "x": 1341.9120450745497,
-                  "y": -112.83784255878794,
-                  "zoom": -0.3848999512162774
+                  "x": 1565.4093687252441,
+                  "y": -1514.604650404402,
+                  "zoom": -0.9077007188152906
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "CSA 2026 EXAM"
             }
           },
           {
-            "id": "6023b77415464068",
+            "id": "0f993dcf3f9571df",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/CSA 2026 EXAM.canvas",
                 "viewState": {
-                  "x": 1721.0813628712187,
-                  "y": -131.80214316000558,
-                  "zoom": -1.0908162144977287
+                  "x": 1309.761637123524,
+                  "y": -5098.558291584289,
+                  "zoom": -1.3445967905359204
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "CSA 2026 EXAM"
             }
           },
           {
-            "id": "10eb800f3b1f8923",
+            "id": "98dbc1125e2db61c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
+                "file": "src/drafts/chapter 9.canvas",
                 "viewState": {
-                  "x": 2460.009688682929,
-                  "y": -3513.272122144316,
-                  "zoom": -1.5575412769864805
+                  "x": 2770.9973858094627,
+                  "y": 6565.997242397838,
+                  "zoom": -0.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
+              "title": "chapter 9"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,7 +131,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -314,54 +264,93 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-kanban:Создать новую доску": false,
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "10eb800f3b1f8923",
+  "floating": {
+    "id": "1f41e674ed91c672",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a5d749a4693656c",
+        "type": "window",
+        "children": [
+          {
+            "id": "69b474ab3e6adbf2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af4a0191e6bc7b78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "references/АК Экзамен v1.7 (2026).pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "АК Экзамен v1.7 (2026)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 499,
+        "y": 48,
+        "width": 959,
+        "height": 1104,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "98dbc1125e2db61c",
   "lastOpenFiles": [
-    "src/drafts/DRAFTS.canvas",
-    "src/drafts/ak-90-110.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "src/drafts/ak-74-89.canvas",
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "src/drafts/chapter 9.canvas",
+    "references/Экзамен АК (2024).pdf",
+    "references/АК экзамен (2026).pdf",
     "src/chapters/3 Computing Models.canvas",
+    "src/attachments/Obsidian_Nrk1IqiuTU.jpg",
+    "src/attachments/msedge_o5vif2kj2K.jpg",
+    "src/attachments/Pasted image 20260822163306.png",
+    "src/attachments/Pasted image 20260822161450.png",
+    "src/attachments/Pasted image 20260822160805.png",
+    "src/attachments/Pasted image 20260822160523.png",
+    "src/attachments/Pasted image 20260822154651.png",
+    "src/attachments/Pasted image 20260822153728.png",
+    "src/attachments/msedge_KvvBN5Ig9w.jpg",
+    "src/attachments/msedge_mqUx0c51il.jpg",
     "src/CSA 2026 EXAM.canvas",
-    "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/drafts/chapter 6.canvas",
+    "src/drafts/DRAFTS.canvas",
+    "src/attachments/pack 2",
+    "src/attachments/pack 1",
+    "src/drafts/53,60.canvas",
+    "src/drafts/46, 48-50.canvas",
+    "Без названия 1.base",
+    "Без названия.base",
+    "2026-08-19.md",
+    "Без названия 1.canvas",
     "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
     "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
-    "src/attachments/pack 2/Pasted image 20260818170643.png",
-    "src/attachments/pack 2/Pasted image 20260818164424.png",
-    "src/attachments/pack 2/Pasted image 20260818163304.png",
-    "src/attachments/pack 2/Pasted image 20260818162754.png",
-    "src/attachments/pack 2/Pasted image 20260818155114.png",
-    "src/attachments/pack 2",
-    "src/attachments/pack 1/Pasted image 20260818152921.png",
-    "src/attachments/pack 1/Pasted image 20260818152144.png",
-    "src/attachments/pack 1/Pasted image 20260818152055.png",
-    "src/attachments/pack 1/Pasted image 20260818143145.png",
-    "src/attachments/pack 1/Pasted image 20260818143117.png",
-    "src/attachments/pack 1",
-    "references/Экзамен АК (2024).pdf",
-    "references/АК Все билеты (2024).pdf",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "references/АК экзамен (2026).pdf",
-    "Untitled.md",
-    "references/csa_exam (2025).pdf",
-    "src/drafts",
-    "docs/src/drafts/drafts.html",
-    "docs/src/drafts",
     "README.md",
+    "docs/references/ак-все-билеты-(2024).pdf",
+    "docs/references/digital-design-and-computer-architecture-russian-translation_july16_2016.pdf",
+    "docs/references/ак-экзамен-v1.7-(2026).pdf",
     "github.com/ssnagin.md",
     "TODO.md",
+    "Untitled.md",
     "src/README.md",
     "4 Computer Architecture/README.md",
     "4 Computer Architecture/lab2/README.md",
