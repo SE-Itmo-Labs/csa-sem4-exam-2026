@@ -75,9 +75,26 @@
               "icon": "lucide-file-text",
               "title": "АК экзамен (2026)"
             }
+          },
+          {
+            "id": "74899b086bf5e8c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
+                "viewState": {
+                  "x": 1536.5424382203664,
+                  "y": -1338.1466053895765,
+                  "zoom": 0.414145514591699
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "7 Cache & Memory Hierarchy"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "9964e2f17e8160d6",
@@ -110,9 +127,49 @@
               "icon": "lucide-file-text",
               "title": "АК Экзамен v1.7 (2026)"
             }
+          },
+          {
+            "id": "01cd79df52ee3da0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/csa_exam (2025).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "csa_exam (2025)"
+            }
+          },
+          {
+            "id": "57e95fb23c79d6d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/АК экзамен (2026).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "АК экзамен (2026)"
+            }
+          },
+          {
+            "id": "d8cf9a33c844c35a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "digital-design-and-computer-architecture-russian-translation_July16_2016"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -316,49 +373,49 @@
           }
         ],
         "direction": "vertical",
-        "x": 1986,
-        "y": 98,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
+        "x": 488,
+        "y": 202,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "85d178279043b4b8",
+  "active": "74899b086bf5e8c3",
   "lastOpenFiles": [
     "references/АК экзамен (2026).pdf",
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
-    "src/attachments/Pasted image 20260822022946.png",
-    "src/chapters/3 Computing Models.canvas",
-    "src/attachments/Pasted image 20260822022515.png",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "references/Экзамен АК (2024).pdf",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "src/attachments/Pasted image 20260822231309.png",
+    "references/csa_exam (2025).pdf",
+    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
+    "src/attachments/Pasted image 20260822225802.png",
+    "src/attachments/Pasted image 20260822221054.png",
+    "src/attachments/memory-array.png",
+    "references/Экзамен АК (2024).pdf",
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "src/attachments/Pasted image 20260822212758.png",
     "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
-    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
-    "src/CSA 2026 EXAM.canvas",
-    "src/drafts/DRAFTS.canvas",
-    "src/drafts/chapter 6.canvas",
-    "src/drafts/53,60.canvas",
+    "Без названия.canvas",
     "Без названия.base",
+    "Без названия 1.canvas",
     "Без названия 1.base",
     "src/attachments/pack 2/msedge_wlRXOJqB3K.jpg",
     "src/attachments/pack 2/msedge_weAHwn2Lko.jpg",
     "src/attachments/pack 2/msedge_uf9dfdHFOP.jpg",
     "src/attachments/pack 2/msedge_qbHgaB3jEw.jpg",
     "src/attachments/pack 2/msedge_gy9Tn1TEo8.jpg",
-    "src/attachments/pack 2/msedge_esSqWWCcQV.jpg",
-    "src/attachments/pack 2/msedge_ZmYcoNFSNI.jpg",
-    "src/attachments/pack 2/msedge_U9wzHNhklt.jpg",
     "2026-08-19.md",
+    "src/drafts/chapter 6.canvas",
+    "src/drafts/53,60.canvas",
+    "src/drafts/46, 48-50.canvas",
+    "src/chapters/3 Computing Models.canvas",
+    "src/chapters/1 Introduction & basics.canvas",
     "src/attachments/pack 2",
     "src/attachments/pack 1",
     "references/АК Все билеты (2024).pdf",
     "Untitled.md",
-    "references/csa_exam (2025).pdf",
-    "src/drafts",
     "README.md",
     "github.com/ssnagin.md",
     "TODO.md",
