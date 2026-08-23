@@ -78,16 +78,16 @@
             }
           },
           {
-            "id": "74899b086bf5e8c3",
+            "id": "15f75c9cede80f88",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
                 "viewState": {
-                  "x": 2125.818680567223,
-                  "y": -2182.428801206907,
-                  "zoom": 0.414145514591699
+                  "x": 2369.8276047863055,
+                  "y": 5099.999933886469,
+                  "zoom": -0.5999999999999999
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -340,74 +340,30 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "floating": {
-    "id": "97180b40c59c6eb1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8e42762c90894ee3",
-        "type": "window",
-        "children": [
-          {
-            "id": "b2648e1700d9a9f9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "85d178279043b4b8",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
-                    "viewState": {
-                      "x": 1325.6855399620088,
-                      "y": -2459.9143729486996,
-                      "zoom": 0.19999999999999996
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "7 Cache & Memory Hierarchy"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 488,
-        "y": 202,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "74899b086bf5e8c3",
+  "active": "57e95fb23c79d6d2",
   "lastOpenFiles": [
-    "references/АК экзамен (2026).pdf",
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "references/АК экзамен (2026).pdf",
+    "src/attachments/Pasted image 20260823172738.png",
+    "src/attachments/Pasted image 20260823172616.png",
+    "src/attachments/cache-direct-assoc.png",
     "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "references/csa_exam (2025).pdf",
+    "src/attachments/cache-set-associative.png",
     "src/attachments/Pasted image 20260823000207.png",
     "src/attachments/Pasted image 20260822235021.png",
     "src/attachments/Pasted image 20260822233931.png",
     "src/attachments/Pasted image 20260822233859.png",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
     "src/attachments/Pasted image 20260822231309.png",
-    "references/csa_exam (2025).pdf",
     "src/attachments/Pasted image 20260822225802.png",
-    "src/attachments/Pasted image 20260822221054.png",
-    "src/attachments/memory-array.png",
     "references/Экзамен АК (2024).pdf",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "src/attachments/Pasted image 20260822212758.png",
     "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "Без названия.canvas",
     "Без названия.base",
     "Без названия 1.canvas",
     "Без названия 1.base",
-    "src/attachments/pack 2/msedge_wlRXOJqB3K.jpg",
     "2026-08-19.md",
     "src/drafts/chapter 6.canvas",
     "src/drafts/53,60.canvas",
