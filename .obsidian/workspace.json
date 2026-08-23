@@ -78,16 +78,33 @@
             }
           },
           {
-            "id": "15f75c9cede80f88",
+            "id": "1752538ff53b2e7d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/CSA 2026 EXAM.canvas",
+                "viewState": {
+                  "x": 718.9840539106001,
+                  "y": -395.41504336754167,
+                  "zoom": -1.1029730453305588
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CSA 2026 EXAM"
+            }
+          },
+          {
+            "id": "0e42d667a1907434",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
                 "viewState": {
-                  "x": 2369.8276047863055,
-                  "y": 5099.999933886469,
-                  "zoom": -0.5999999999999999
+                  "x": 3233.8066308915236,
+                  "y": 2544.480818378763,
+                  "zoom": -1.0355245956864843
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -95,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9964e2f17e8160d6",
@@ -344,32 +361,32 @@
   "lastOpenFiles": [
     "src/chapters/7 Cache & Memory Hierarchy.canvas",
     "references/АК экзамен (2026).pdf",
-    "src/attachments/Pasted image 20260823172738.png",
-    "src/attachments/Pasted image 20260823172616.png",
-    "src/attachments/cache-direct-assoc.png",
-    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
+    "src/CSA 2026 EXAM.canvas",
+    "2026-08-19.md",
     "references/АК Экзамен v1.7 (2026).pdf",
     "references/csa_exam (2025).pdf",
-    "src/attachments/cache-set-associative.png",
-    "src/attachments/Pasted image 20260823000207.png",
-    "src/attachments/Pasted image 20260822235021.png",
-    "src/attachments/Pasted image 20260822233931.png",
-    "src/attachments/Pasted image 20260822233859.png",
+    "src/attachments/Pasted image 20260823194325.png",
+    "src/attachments/Pasted image 20260823194301.png",
+    "src/attachments/Pasted image 20260823192949.png",
+    "src/attachments/Pasted image 20260823192841.png",
+    "src/attachments/Pasted image 20260823190920.png",
+    "src/attachments/Pasted image 20260823190658.png",
+    "src/attachments/Pasted image 20260823190642.png",
+    "src/attachments/Pasted image 20260823190629.png",
+    "src/attachments/Pasted image 20260823190615.png",
+    "src/attachments/Pasted image 20260823190551.png",
+    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
     "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/attachments/Pasted image 20260822231309.png",
-    "src/attachments/Pasted image 20260822225802.png",
     "references/Экзамен АК (2024).pdf",
     "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "Без названия.canvas",
     "Без названия.base",
     "Без названия 1.canvas",
     "Без названия 1.base",
-    "2026-08-19.md",
     "src/drafts/chapter 6.canvas",
     "src/drafts/53,60.canvas",
     "src/drafts/46, 48-50.canvas",
     "src/chapters/3 Computing Models.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
     "src/attachments/pack 2",
     "src/attachments/pack 1",
     "references/АК Все билеты (2024).pdf",
