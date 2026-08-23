@@ -8,76 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bb9127009a64221",
+            "id": "1f3876074b3134a1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
+                "file": "src/exam.canvas",
                 "viewState": {
-                  "x": 2550.6530942798463,
-                  "y": -4637.156147304893,
-                  "zoom": -1.4419524793059861
+                  "x": -2860.526878458924,
+                  "y": -1838.8542067931778,
+                  "zoom": -1.4084980160046876
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
+              "title": "exam"
             }
           },
           {
-            "id": "8f2e5271b0a20f48",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
-                "viewState": {
-                  "x": 1535.2437394528324,
-                  "y": -4889.076012822264,
-                  "zoom": -0.8000000000000002
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
-            }
-          },
-          {
-            "id": "0fe4a557751a1167",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "src/chapters/3 Computing Models.canvas",
-                "viewState": {
-                  "x": 1312.67519865727,
-                  "y": -4997.020952985224,
-                  "zoom": -0.9333333333333335
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "3 Computing Models"
-            }
-          },
-          {
-            "id": "c587f997f83c6941",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "references/АК экзамен (2026).pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК экзамен (2026)"
-            }
-          },
-          {
-            "id": "af4a0191e6bc7b78",
+            "id": "4edb53b6df00448a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -91,72 +41,100 @@
             }
           },
           {
-            "id": "141753f4e89c77ca",
+            "id": "9bde1d1bcf05bdf7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "references/Экзамен АК (2024).pdf"
+                "file": "references/АК экзамен (2026).pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "Экзамен АК (2024)"
+              "title": "АК экзамен (2026)"
             }
           },
           {
-            "id": "bae12590c8f0cce8",
+            "id": "7214836eeb776bbd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "digital-design-and-computer-architecture-russian-translation_July16_2016"
+            }
+          },
+          {
+            "id": "ac2a6f3a969efa79",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "references/csa_exam (2025).pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "csa_exam (2025)"
+            }
+          },
+          {
+            "id": "ae9668b8861dd726",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/chapters/2 Circut Design & Production.canvas",
                 "viewState": {
-                  "x": 1341.9120450745497,
-                  "y": -112.83784255878794,
-                  "zoom": -0.3848999512162774
+                  "x": 9,
+                  "y": -3480,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "2 Circut Design & Production"
             }
           },
           {
-            "id": "6023b77415464068",
+            "id": "3bc3d3e6a8393ce2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/4 ISA Evolution.canvas",
+                "file": "src/drafts/ak-74-89.canvas",
                 "viewState": {
-                  "x": 1721.0813628712187,
-                  "y": -131.80214316000558,
-                  "zoom": -1.0908162144977287
+                  "x": 275.23833008697653,
+                  "y": 5258.808076996154,
+                  "zoom": -0.023467587073863913
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 ISA Evolution"
+              "title": "ak-74-89"
             }
           },
           {
-            "id": "10eb800f3b1f8923",
+            "id": "15207861bf969402",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "src/chapters/5 RISC & Instruction Pipeling.canvas",
+                "file": "src/drafts/ak-179-210.canvas",
                 "viewState": {
-                  "x": 2460.009688682929,
-                  "y": -3513.272122144316,
-                  "zoom": -1.5575412769864805
+                  "x": 1173.6974229166194,
+                  "y": 13007.010165445043,
+                  "zoom": -1.4855938273668294
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "5 RISC & Instruction Pipeling"
+              "title": "ak-179-210"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -181,7 +159,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -218,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 468.96875
   },
   "right": {
     "id": "5026343c54dbdd21",
@@ -314,54 +292,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-kanban:Создать новую доску": false,
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "10eb800f3b1f8923",
+  "active": "15207861bf969402",
   "lastOpenFiles": [
     "src/drafts/DRAFTS.canvas",
-    "src/drafts/ak-90-110.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/4 ISA Evolution.canvas",
-    "src/drafts/ak-74-89.canvas",
-    "src/chapters/3 Computing Models.canvas",
-    "src/CSA 2026 EXAM.canvas",
-    "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
     "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
     "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
-    "src/attachments/pack 2/Pasted image 20260818170643.png",
-    "src/attachments/pack 2/Pasted image 20260818164424.png",
-    "src/attachments/pack 2/Pasted image 20260818163304.png",
-    "src/attachments/pack 2/Pasted image 20260818162754.png",
-    "src/attachments/pack 2/Pasted image 20260818155114.png",
+    "src/chapters/1 Introduction & basics.canvas",
+    "src/drafts/ak-179-210.canvas",
+    "src/chapters/4 ISA Evolution.canvas",
+    "src/attachments/Screenshot 2026-08-22 at 22.13.01.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.11.27.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.11.05.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.09.30.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.01.41.png",
+    "src/attachments/Screenshot 2026-08-22 at 21.56.26.png",
+    "src/attachments/Screenshot 2026-08-22 at 21.55.43.png",
+    "src/attachments/Screenshot 2026-08-22 at 20.11.32.png",
+    "src/attachments/Screenshot 2026-08-22 at 20.01.30.png",
+    "src/attachments/Screenshot 2026-08-22 at 20.00.40.png",
+    "src/CSA 2026 EXAM.canvas",
+    "src/chapters/5 RISC & Instruction Pipeling.canvas",
     "src/attachments/pack 2",
-    "src/attachments/pack 1/Pasted image 20260818152921.png",
-    "src/attachments/pack 1/Pasted image 20260818152144.png",
-    "src/attachments/pack 1/Pasted image 20260818152055.png",
-    "src/attachments/pack 1/Pasted image 20260818143145.png",
-    "src/attachments/pack 1/Pasted image 20260818143117.png",
     "src/attachments/pack 1",
-    "references/Экзамен АК (2024).pdf",
-    "references/АК Все билеты (2024).pdf",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "references/АК экзамен (2026).pdf",
-    "Untitled.md",
-    "references/csa_exam (2025).pdf",
+    "src/drafts/ak-90-110.canvas",
     "src/drafts",
     "docs/src/drafts/drafts.html",
     "docs/src/drafts",
+    "docs/src/csa-2026-exam.html",
+    "docs/src/chapters/9-non-neuman-&-parallel-architectures.html",
+    "docs/src/chapters/8-superscalar-&-vliw-&-high-level-pl.html",
+    "docs/src/chapters/7-cache-&-memory-hierarchy.html",
+    "docs/src/chapters/6-multitasking-&-io-&-ram.html",
     "README.md",
-    "github.com/ssnagin.md",
-    "TODO.md",
     "src/README.md",
     "4 Computer Architecture/README.md",
     "4 Computer Architecture/lab2/README.md",
