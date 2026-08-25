@@ -75,44 +75,47 @@
               "icon": "lucide-file-text",
               "title": "АК экзамен (2026)"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9964e2f17e8160d6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "141753f4e89c77ca",
+            "id": "2b9067f927e429bb",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "references/Экзамен АК (2024).pdf"
+                "file": "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+                "viewState": {
+                  "x": 2423.8525771479867,
+                  "y": 10452.245215953768,
+                  "zoom": -0.18347895255032187
+                }
               },
               "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Экзамен АК (2024)"
+              "icon": "lucide-layout-dashboard",
+              "title": "9 Non-Neuman & Parallel Architectures"
             }
           },
           {
-            "id": "af4a0191e6bc7b78",
+            "id": "61272a0e3b8979b6",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "references/АК Экзамен v1.7 (2026).pdf"
+                "file": "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+                "viewState": {
+                  "x": 2302.959093883993,
+                  "y": -3699.8207938172936,
+                  "zoom": -1.600000000000001
+                }
               },
               "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "АК Экзамен v1.7 (2026)"
+              "icon": "lucide-layout-dashboard",
+              "title": "9 Non-Neuman & Parallel Architectures"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "5026343c54dbdd21",
@@ -190,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,83 +285,131 @@
     }
   },
   "floating": {
-    "id": "97180b40c59c6eb1",
+    "id": "4d6fd19fc8252af6",
     "type": "floating",
     "children": [
       {
-        "id": "8e42762c90894ee3",
+        "id": "0589d55876d3c053",
         "type": "window",
         "children": [
           {
-            "id": "b2648e1700d9a9f9",
+            "id": "69e5594b50ca6c48",
             "type": "tabs",
             "children": [
               {
-                "id": "85d178279043b4b8",
+                "id": "01cd79df52ee3da0",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "canvas",
+                  "type": "pdf",
                   "state": {
-                    "file": "src/chapters/7 Cache & Memory Hierarchy.canvas",
-                    "viewState": {
-                      "x": 1325.6855399620088,
-                      "y": -2459.9143729486996,
-                      "zoom": 0.19999999999999996
-                    }
+                    "file": "references/csa_exam (2025).pdf"
                   },
                   "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "csa_exam (2025)"
+                }
+              },
+              {
+                "id": "af4a0191e6bc7b78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "references/АК Экзамен v1.7 (2026).pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "АК Экзамен v1.7 (2026)"
+                }
+              },
+              {
+                "id": "141753f4e89c77ca",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "references/Экзамен АК (2024).pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Экзамен АК (2024)"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "ce5cd84e5e063489",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1752538ff53b2e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
+                    "viewState": {
+                      "x": 1203.6950122778317,
+                      "y": -4878.4494727442725,
+                      "zoom": -0.5834789525503217
+                    }
+                  },
                   "icon": "lucide-layout-dashboard",
-                  "title": "7 Cache & Memory Hierarchy"
+                  "title": "9 Non-Neuman & Parallel Architectures"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1986,
-        "y": 98,
-        "width": 600,
-        "height": 600,
+        "x": 1920,
+        "y": 0,
+        "width": 683,
+        "height": 768,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "85d178279043b4b8",
+  "active": "61272a0e3b8979b6",
   "lastOpenFiles": [
-    "references/АК экзамен (2026).pdf",
-    "src/chapters/7 Cache & Memory Hierarchy.canvas",
-    "src/attachments/Pasted image 20260822022946.png",
-    "src/chapters/3 Computing Models.canvas",
-    "src/attachments/Pasted image 20260822022515.png",
-    "references/АК Экзамен v1.7 (2026).pdf",
-    "references/Экзамен АК (2024).pdf",
-    "src/chapters/6 Multitasking & IO & RAM.canvas",
-    "src/chapters/5 RISC & Instruction Pipeling.canvas",
-    "src/chapters/1 Introduction & basics.canvas",
-    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
-    "src/CSA 2026 EXAM.canvas",
-    "src/drafts/DRAFTS.canvas",
+    "src/drafts/ak-179-210.canvas",
+    "src/attachments/Screenshot 2026-08-25 at 01.38.26.png",
+    "src/attachments/Screenshot 2026-08-25 at 01.20.06.png",
+    "src/attachments/Screenshot 2026-08-25 at 01.11.15.png",
+    "src/attachments/Screenshot 2026-08-25 at 01.08.19.png",
+    "src/attachments/Screenshot 2026-08-25 at 00.55.43.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.13.01.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.11.27.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.11.05.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.09.30.png",
+    "src/attachments/Screenshot 2026-08-22 at 22.01.41.png",
+    "2026-08-19.md",
+    "src/drafts/chapter 9.canvas",
+    "src/chapters/9 Non-Neuman & Parallel Architectures.canvas",
     "src/drafts/chapter 6.canvas",
-    "src/drafts/53,60.canvas",
+    "src/chapters/8 Superscalar & VLIW & High-Level PL.canvas",
+    "src/chapters/1 Introduction & basics.canvas",
+    "src/CSA 2026 EXAM.canvas",
+    "src/attachments/Untitled",
+    "src/chapters/3 Computing Models.canvas",
+    "src/chapters/7 Cache & Memory Hierarchy.canvas",
+    "src/chapters/6 Multitasking & IO & RAM.canvas",
+    "references/Экзамен АК (2024).pdf",
+    "references/АК Экзамен v1.7 (2026).pdf",
+    "references/csa_exam (2025).pdf",
+    "src/chapters/4 ISA Evolution.canvas",
+    "references/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf",
+    "references/АК экзамен (2026).pdf",
     "Без названия.base",
     "Без названия 1.base",
-    "src/attachments/pack 2/msedge_wlRXOJqB3K.jpg",
-    "src/attachments/pack 2/msedge_weAHwn2Lko.jpg",
-    "src/attachments/pack 2/msedge_uf9dfdHFOP.jpg",
-    "src/attachments/pack 2/msedge_qbHgaB3jEw.jpg",
-    "src/attachments/pack 2/msedge_gy9Tn1TEo8.jpg",
-    "src/attachments/pack 2/msedge_esSqWWCcQV.jpg",
-    "src/attachments/pack 2/msedge_ZmYcoNFSNI.jpg",
-    "src/attachments/pack 2/msedge_U9wzHNhklt.jpg",
-    "2026-08-19.md",
     "src/attachments/pack 2",
     "src/attachments/pack 1",
-    "references/АК Все билеты (2024).pdf",
     "Untitled.md",
-    "references/csa_exam (2025).pdf",
-    "src/drafts",
     "README.md",
     "github.com/ssnagin.md",
     "TODO.md",
