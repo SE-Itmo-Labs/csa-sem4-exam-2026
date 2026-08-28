@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "E:\\DEVELOPER\\Data\\projects\\Github\\SE-Itmo-labs\\csa-sem4-exam-2026\\docs",
+    "exportPath": "/home/developer/Projects/github/SE-Itmo-Labs/csa-sem4-exam-2026/docs",
     "filesToExport": [
       "all"
     ],
