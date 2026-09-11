@@ -1,2 +1,14 @@
-
+# Игнорируем workspace
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Игнорируем ВСЕ папки плагинов целиком
+.obsidian/plugins/
+
+# Делаем исключение: разрешаем Git заглядывать внутрь папок...
+!.obsidian/plugins/*/
+# ...но сохранять оттуда СТРОГО файлы manifest.json
+!.obsidian/plugins/*/manifest.json
+
+# Настройки самих плагинов (если хотите их сохранить, раскомментируйте строчку ниже)
+#!.obsidian/plugins/*/data.json
