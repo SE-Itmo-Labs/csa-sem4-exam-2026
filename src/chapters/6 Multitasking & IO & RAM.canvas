@@ -436,8 +436,8 @@
 		{"id":"e69708fcac2a3798","type":"text","text":"**НАЙТИ КАРТИНОК**","x":3484,"y":-4162,"width":250,"height":60},
 		{"id":"5067364100629146","type":"text","text":"# ШАГИ","x":3308,"y":-4719,"width":156,"height":50},
 		{"id":"1a0c960be197b9ef","x":5233,"y":-4980,"width":250,"height":60,"color":"1","type":"text","text":"Ответ от НейлоСлопа"},
-		{"id":"00e8835f2c1649ad","x":4935,"y":-4900,"width":846,"height":945,"type":"file","file":"src/attachments/Pasted image 20260913090443.png"},
-		{"id":"e450bda95b108404","x":4935,"y":-3940,"width":846,"height":580,"type":"file","file":"src/attachments/Pasted image 20260913090503.png"}
+		{"id":"00e8835f2c1649ad","x":4935,"y":-4900,"width":846,"height":945,"type":"file","file":"src/attachments/pack 6/Pasted image 20260913090443.png"},
+		{"id":"e450bda95b108404","x":4935,"y":-3940,"width":846,"height":580,"type":"file","file":"src/attachments/pack 6/Pasted image 20260913090503.png"}
 	],
 	"edges":[
 		{"id":"c042ed30d3358da0","fromNode":"eff24cb5506d72f3","fromSide":"right","toNode":"76a776ff9934cfee","toSide":"right","color":"5"},
